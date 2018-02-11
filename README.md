@@ -18,8 +18,8 @@ They decide to roll again, but get a 1. Getting a 1 makes the player lose all th
 This goes on until one of the players reaches 100 points or more.
 Here are some ScreenShots
 
-![screenshot_20180211-145018](https://user-images.githubusercontent.com/32220881/36071948-1d539f00-0f3d-11e8-8616-53115c53e45e.png)
-![screenshot_20180211-145020](https://user-images.githubusercontent.com/32220881/36071950-1e4b9a20-0f3d-11e8-9f78-f604c3c1be62.png)
-![screenshot_20180211-145130](https://user-images.githubusercontent.com/32220881/36071951-1f320320-0f3d-11e8-8369-f7874555e085.png)
-![screenshot_20180211-145133](https://user-images.githubusercontent.com/32220881/36071952-20b4ff90-0f3d-11e8-9e04-49fc67e215d2.png)
-![screenshot_20180211-145136](https://user-images.githubusercontent.com/32220881/36071953-214d0b8c-0f3d-11e8-95cc-439e2c87e14e.png)
+![screenshot_20180211-145018](https://user-images.githubusercontent.com/32220881/36074452-1c1ca1ee-0f66-11e8-99f7-483f8f12410c.png)
+![screenshot_20180211-145020](https://user-images.githubusercontent.com/32220881/36074473-3f83d2a6-0f66-11e8-92db-7be78734e485.png)
+![screenshot_20180211-145130](https://user-images.githubusercontent.com/32220881/36074456-1e55bb30-0f66-11e8-9a14-83b11d0fce93.png)
+![screenshot_20180211-145133](https://user-images.githubusercontent.com/32220881/36074459-21db2362-0f66-11e8-8fc4-2a881c628030.png)
+![screenshot_20180211-145136](https://user-images.githubusercontent.com/32220881/36074460-23ac71c8-0f66-11e8-9a8d-3c8f9c83011a.png)
